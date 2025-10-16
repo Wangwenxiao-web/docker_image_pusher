@@ -1,1 +1,3 @@
 nginx:alpine
+node:20-alpine
+--plateform=linux/amd64 eclipse-temurin:17-jre
