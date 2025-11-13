@@ -1,3 +1,4 @@
 nginx:alpine
 node:20-alpine
 --platform=linux/amd64 eclipse-temurin:17-jre
+jenkins/jenkins:lts
