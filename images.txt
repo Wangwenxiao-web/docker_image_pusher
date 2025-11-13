@@ -2,3 +2,6 @@ nginx:alpine
 node:20-alpine
 --platform=linux/amd64 eclipse-temurin:17-jre
 jenkins/jenkins:lts
+mysql:8.0
+redis:7.0
+rabbitmq:3.12-management
